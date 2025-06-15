@@ -105,15 +105,15 @@ section.imagem#img-02{
 
 footer{
     background-color: var(--cor1);
-    height: 95px;
+    height: 100px;
 }
 
-footer p{
+footer > p{
     text-align: center;
     font-family: var(--font-normal);
-    padding: 35px;
     color: rgba(255, 255, 255, 0.845);
-    font-size: 20px;
+    padding-top: 40px;
+    font-size: 25px;
 }
 
 footer a{
